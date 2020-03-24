@@ -1,0 +1,2108 @@
+{
+  "companies": [
+    {
+      "id": 0,
+      "company": "aut",
+      "title": "Product Mobility Facilitator",
+      "link": "lavina.net"
+    },
+    {
+      "id": 1,
+      "company": "nemo",
+      "title": "Chief Group Agent",
+      "link": "teagan.info"
+    },
+    {
+      "id": 2,
+      "company": "saepe",
+      "title": "National Integration Manager",
+      "link": "nicklaus.net"
+    },
+    {
+      "id": 3,
+      "company": "necessitatibus",
+      "title": "Internal Identity Executive",
+      "link": "domenic.com"
+    },
+    {
+      "id": 4,
+      "company": "vel",
+      "title": "Regional Markets Engineer",
+      "link": "mya.com"
+    },
+    {
+      "id": 5,
+      "company": "sapiente",
+      "title": "Direct Infrastructure Developer",
+      "link": "dan.com"
+    },
+    {
+      "id": 6,
+      "company": "aliquid",
+      "title": "Human Security Engineer",
+      "link": "zella.com"
+    },
+    {
+      "id": 7,
+      "company": "dolore",
+      "title": "Principal Operations Facilitator",
+      "link": "fannie.org"
+    },
+    {
+      "id": 8,
+      "company": "est",
+      "title": "Direct Integration Director",
+      "link": "javon.net"
+    },
+    {
+      "id": 9,
+      "company": "ea",
+      "title": "Forward Marketing Associate",
+      "link": "enos.biz"
+    },
+    {
+      "id": 10,
+      "company": "et",
+      "title": "Internal Interactions Engineer",
+      "link": "osbaldo.name"
+    },
+    {
+      "id": 11,
+      "company": "nesciunt",
+      "title": "Dynamic Accounts Consultant",
+      "link": "franz.net"
+    },
+    {
+      "id": 12,
+      "company": "beatae",
+      "title": "Customer Integration Designer",
+      "link": "roma.net"
+    },
+    {
+      "id": 13,
+      "company": "voluptas",
+      "title": "Central Functionality Assistant",
+      "link": "jordane.org"
+    },
+    {
+      "id": 14,
+      "company": "ut",
+      "title": "Investor Intranet Analyst",
+      "link": "conrad.org"
+    },
+    {
+      "id": 15,
+      "company": "delectus",
+      "title": "Investor Configuration Officer",
+      "link": "ariane.net"
+    },
+    {
+      "id": 16,
+      "company": "sed",
+      "title": "Principal Applications Technician",
+      "link": "paxton.org"
+    },
+    {
+      "id": 17,
+      "company": "et",
+      "title": "Lead Accounts Representative",
+      "link": "jonatan.org"
+    },
+    {
+      "id": 18,
+      "company": "voluptatem",
+      "title": "Investor Accounts Engineer",
+      "link": "dominic.biz"
+    },
+    {
+      "id": 19,
+      "company": "rerum",
+      "title": "Direct Security Executive",
+      "link": "lacy.org"
+    },
+    {
+      "id": 20,
+      "company": "voluptatem",
+      "title": "Legacy Metrics Director",
+      "link": "matt.name"
+    },
+    {
+      "id": 21,
+      "company": "architecto",
+      "title": "Central Tactics Consultant",
+      "link": "nicholas.net"
+    },
+    {
+      "id": 22,
+      "company": "doloribus",
+      "title": "Human Response Coordinator",
+      "link": "royal.org"
+    },
+    {
+      "id": 23,
+      "company": "at",
+      "title": "Direct Communications Agent",
+      "link": "greg.net"
+    },
+    {
+      "id": 24,
+      "company": "ut",
+      "title": "District Marketing Strategist",
+      "link": "vicente.net"
+    },
+    {
+      "id": 25,
+      "company": "mollitia",
+      "title": "International Brand Associate",
+      "link": "camila.net"
+    },
+    {
+      "id": 26,
+      "company": "id",
+      "title": "Product Accounts Designer",
+      "link": "joyce.name"
+    },
+    {
+      "id": 27,
+      "company": "molestiae",
+      "title": "Corporate Data Agent",
+      "link": "stefan.name"
+    },
+    {
+      "id": 28,
+      "company": "ipsum",
+      "title": "Dynamic Tactics Designer",
+      "link": "malcolm.name"
+    },
+    {
+      "id": 29,
+      "company": "odio",
+      "title": "Corporate Response Specialist",
+      "link": "clifford.biz"
+    },
+    {
+      "id": 30,
+      "company": "minima",
+      "title": "Future Operations Director",
+      "link": "cristian.com"
+    },
+    {
+      "id": 31,
+      "company": "aut",
+      "title": "Forward Research Developer",
+      "link": "nella.org"
+    },
+    {
+      "id": 32,
+      "company": "quam",
+      "title": "Lead Operations Representative",
+      "link": "uriel.net"
+    },
+    {
+      "id": 33,
+      "company": "aspernatur",
+      "title": "Regional Data Facilitator",
+      "link": "dayna.org"
+    },
+    {
+      "id": 34,
+      "company": "totam",
+      "title": "National Assurance Developer",
+      "link": "reyes.info"
+    },
+    {
+      "id": 35,
+      "company": "dolorum",
+      "title": "Corporate Functionality Orchestrator",
+      "link": "rosalinda.org"
+    },
+    {
+      "id": 36,
+      "company": "velit",
+      "title": "Global Response Representative",
+      "link": "timmy.org"
+    },
+    {
+      "id": 37,
+      "company": "voluptatem",
+      "title": "Forward Division Designer",
+      "link": "lillie.info"
+    },
+    {
+      "id": 38,
+      "company": "non",
+      "title": "Product Accountability Officer",
+      "link": "edmond.biz"
+    },
+    {
+      "id": 39,
+      "company": "sunt",
+      "title": "Customer Solutions Architect",
+      "link": "rhianna.net"
+    },
+    {
+      "id": 40,
+      "company": "dolor",
+      "title": "Central Optimization Associate",
+      "link": "domenic.info"
+    },
+    {
+      "id": 41,
+      "company": "architecto",
+      "title": "District Identity Coordinator",
+      "link": "matteo.net"
+    },
+    {
+      "id": 42,
+      "company": "dolorem",
+      "title": "Dynamic Paradigm Assistant",
+      "link": "solon.name"
+    },
+    {
+      "id": 43,
+      "company": "delectus",
+      "title": "Dynamic Paradigm Associate",
+      "link": "elwyn.info"
+    },
+    {
+      "id": 44,
+      "company": "velit",
+      "title": "Global Metrics Officer",
+      "link": "julianne.info"
+    },
+    {
+      "id": 45,
+      "company": "perspiciatis",
+      "title": "International Communications Director",
+      "link": "gonzalo.biz"
+    },
+    {
+      "id": 46,
+      "company": "sit",
+      "title": "Product Mobility Officer",
+      "link": "evalyn.org"
+    },
+    {
+      "id": 47,
+      "company": "eveniet",
+      "title": "Investor Division Associate",
+      "link": "casimer.biz"
+    },
+    {
+      "id": 48,
+      "company": "officiis",
+      "title": "Customer Operations Specialist",
+      "link": "chelsie.net"
+    },
+    {
+      "id": 49,
+      "company": "sint",
+      "title": "Legacy Security Strategist",
+      "link": "isabell.info"
+    },
+    {
+      "id": 50,
+      "company": "accusamus",
+      "title": "Forward Usability Supervisor",
+      "link": "dayana.org"
+    },
+    {
+      "id": 51,
+      "company": "corrupti",
+      "title": "Global Integration Developer",
+      "link": "emelia.com"
+    },
+    {
+      "id": 52,
+      "company": "iste",
+      "title": "Future Optimization Strategist",
+      "link": "arlie.org"
+    },
+    {
+      "id": 53,
+      "company": "earum",
+      "title": "Human Operations Coordinator",
+      "link": "casey.biz"
+    },
+    {
+      "id": 54,
+      "company": "odit",
+      "title": "Principal Creative Supervisor",
+      "link": "regan.name"
+    },
+    {
+      "id": 55,
+      "company": "dolores",
+      "title": "Corporate Communications Director",
+      "link": "joey.org"
+    },
+    {
+      "id": 56,
+      "company": "voluptate",
+      "title": "Dynamic Assurance Producer",
+      "link": "lauryn.com"
+    },
+    {
+      "id": 57,
+      "company": "sed",
+      "title": "Forward Paradigm Consultant",
+      "link": "nigel.net"
+    },
+    {
+      "id": 58,
+      "company": "repellendus",
+      "title": "Investor Data Architect",
+      "link": "paula.net"
+    },
+    {
+      "id": 59,
+      "company": "sint",
+      "title": "Forward Intranet Liaison",
+      "link": "bessie.org"
+    },
+    {
+      "id": 60,
+      "company": "incidunt",
+      "title": "Chief Usability Representative",
+      "link": "myrna.biz"
+    },
+    {
+      "id": 61,
+      "company": "eos",
+      "title": "Corporate Solutions Liaison",
+      "link": "jakayla.info"
+    },
+    {
+      "id": 62,
+      "company": "voluptate",
+      "title": "Product Applications Assistant",
+      "link": "cullen.info"
+    },
+    {
+      "id": 63,
+      "company": "molestias",
+      "title": "Regional Division Orchestrator",
+      "link": "eugene.com"
+    },
+    {
+      "id": 64,
+      "company": "qui",
+      "title": "Direct Group Agent",
+      "link": "lucius.name"
+    },
+    {
+      "id": 65,
+      "company": "aut",
+      "title": "Lead Integration Consultant",
+      "link": "ahmad.com"
+    },
+    {
+      "id": 66,
+      "company": "veniam",
+      "title": "Human Assurance Designer",
+      "link": "amani.info"
+    },
+    {
+      "id": 67,
+      "company": "non",
+      "title": "District Group Specialist",
+      "link": "rosella.name"
+    },
+    {
+      "id": 68,
+      "company": "est",
+      "title": "International Marketing Architect",
+      "link": "brian.name"
+    },
+    {
+      "id": 69,
+      "company": "aut",
+      "title": "Legacy Functionality Technician",
+      "link": "royal.net"
+    },
+    {
+      "id": 70,
+      "company": "doloremque",
+      "title": "Forward Functionality Strategist",
+      "link": "magnolia.biz"
+    },
+    {
+      "id": 71,
+      "company": "quod",
+      "title": "Future Identity Designer",
+      "link": "opal.info"
+    },
+    {
+      "id": 72,
+      "company": "est",
+      "title": "Principal Group Analyst",
+      "link": "walter.name"
+    },
+    {
+      "id": 73,
+      "company": "dolor",
+      "title": "Investor Research Planner",
+      "link": "serena.com"
+    },
+    {
+      "id": 74,
+      "company": "reprehenderit",
+      "title": "Forward Security Planner",
+      "link": "benny.name"
+    },
+    {
+      "id": 75,
+      "company": "aut",
+      "title": "Human Functionality Consultant",
+      "link": "jewel.biz"
+    },
+    {
+      "id": 76,
+      "company": "exercitationem",
+      "title": "District Accounts Consultant",
+      "link": "milford.biz"
+    },
+    {
+      "id": 77,
+      "company": "tempora",
+      "title": "Dynamic Brand Director",
+      "link": "bernie.com"
+    },
+    {
+      "id": 78,
+      "company": "molestiae",
+      "title": "Direct Configuration Technician",
+      "link": "velda.biz"
+    },
+    {
+      "id": 79,
+      "company": "voluptates",
+      "title": "Internal Intranet Representative",
+      "link": "edward.com"
+    },
+    {
+      "id": 80,
+      "company": "architecto",
+      "title": "Senior Accounts Planner",
+      "link": "lue.biz"
+    },
+    {
+      "id": 81,
+      "company": "temporibus",
+      "title": "Investor Mobility Director",
+      "link": "gus.name"
+    },
+    {
+      "id": 82,
+      "company": "fuga",
+      "title": "International Brand Representative",
+      "link": "golden.biz"
+    },
+    {
+      "id": 83,
+      "company": "reprehenderit",
+      "title": "Product Brand Analyst",
+      "link": "twila.com"
+    },
+    {
+      "id": 84,
+      "company": "et",
+      "title": "Dynamic Brand Architect",
+      "link": "haskell.net"
+    },
+    {
+      "id": 85,
+      "company": "ducimus",
+      "title": "Product Infrastructure Orchestrator",
+      "link": "palma.name"
+    },
+    {
+      "id": 86,
+      "company": "repudiandae",
+      "title": "Lead Accounts Engineer",
+      "link": "morris.org"
+    },
+    {
+      "id": 87,
+      "company": "nostrum",
+      "title": "Lead Identity Planner",
+      "link": "mitchel.net"
+    },
+    {
+      "id": 88,
+      "company": "ullam",
+      "title": "Regional Communications Analyst",
+      "link": "elizabeth.info"
+    },
+    {
+      "id": 89,
+      "company": "ut",
+      "title": "Dynamic Communications Designer",
+      "link": "stone.biz"
+    },
+    {
+      "id": 90,
+      "company": "neque",
+      "title": "Customer Usability Strategist",
+      "link": "jacynthe.biz"
+    },
+    {
+      "id": 91,
+      "company": "odio",
+      "title": "Investor Security Strategist",
+      "link": "fernando.name"
+    },
+    {
+      "id": 92,
+      "company": "incidunt",
+      "title": "International Infrastructure Planner",
+      "link": "ulises.net"
+    },
+    {
+      "id": 93,
+      "company": "corporis",
+      "title": "National Division Liaison",
+      "link": "dora.name"
+    },
+    {
+      "id": 94,
+      "company": "aliquam",
+      "title": "Product Data Facilitator",
+      "link": "shea.biz"
+    },
+    {
+      "id": 95,
+      "company": "ipsum",
+      "title": "National Quality Associate",
+      "link": "tate.biz"
+    },
+    {
+      "id": 96,
+      "company": "quam",
+      "title": "Corporate Response Associate",
+      "link": "malinda.biz"
+    },
+    {
+      "id": 97,
+      "company": "inventore",
+      "title": "Dynamic Security Director",
+      "link": "dahlia.name"
+    },
+    {
+      "id": 98,
+      "company": "quaerat",
+      "title": "Customer Division Administrator",
+      "link": "laura.name"
+    },
+    {
+      "id": 99,
+      "company": "veritatis",
+      "title": "Human Metrics Coordinator",
+      "link": "bobbie.com"
+    }
+  ],
+  "offers": [
+    {
+      "id": 0,
+      "oppType": "Full-Time",
+      "initialComp": "$82175",
+      "negotiated": "Yes",
+      "finalComp": "$68578",
+      "accepted": "Yes"
+    },
+    {
+      "id": 1,
+      "oppType": "Full-Time",
+      "initialComp": "$43081",
+      "negotiated": "Yes",
+      "finalComp": "$75998",
+      "accepted": "Yes"
+    },
+    {
+      "id": 2,
+      "oppType": "Full-Time",
+      "initialComp": "$94323",
+      "negotiated": "Yes",
+      "finalComp": "$35534",
+      "accepted": "Yes"
+    },
+    {
+      "id": 3,
+      "oppType": "Full-Time",
+      "initialComp": "$60093",
+      "negotiated": "Yes",
+      "finalComp": "$84375",
+      "accepted": "Yes"
+    },
+    {
+      "id": 4,
+      "oppType": "Full-Time",
+      "initialComp": "$41035",
+      "negotiated": "Yes",
+      "finalComp": "$44502",
+      "accepted": "Yes"
+    },
+    {
+      "id": 5,
+      "oppType": "Full-Time",
+      "initialComp": "$51850",
+      "negotiated": "Yes",
+      "finalComp": "$10774",
+      "accepted": "Yes"
+    },
+    {
+      "id": 6,
+      "oppType": "Full-Time",
+      "initialComp": "$35212",
+      "negotiated": "Yes",
+      "finalComp": "$80805",
+      "accepted": "Yes"
+    },
+    {
+      "id": 7,
+      "oppType": "Full-Time",
+      "initialComp": "$72060",
+      "negotiated": "Yes",
+      "finalComp": "$39092",
+      "accepted": "Yes"
+    },
+    {
+      "id": 8,
+      "oppType": "Full-Time",
+      "initialComp": "$32628",
+      "negotiated": "Yes",
+      "finalComp": "$1820",
+      "accepted": "Yes"
+    },
+    {
+      "id": 9,
+      "oppType": "Full-Time",
+      "initialComp": "$64410",
+      "negotiated": "Yes",
+      "finalComp": "$19604",
+      "accepted": "Yes"
+    },
+    {
+      "id": 10,
+      "oppType": "Full-Time",
+      "initialComp": "$42347",
+      "negotiated": "Yes",
+      "finalComp": "$77827",
+      "accepted": "Yes"
+    },
+    {
+      "id": 11,
+      "oppType": "Full-Time",
+      "initialComp": "$29843",
+      "negotiated": "Yes",
+      "finalComp": "$89667",
+      "accepted": "Yes"
+    },
+    {
+      "id": 12,
+      "oppType": "Full-Time",
+      "initialComp": "$69636",
+      "negotiated": "Yes",
+      "finalComp": "$52603",
+      "accepted": "Yes"
+    },
+    {
+      "id": 13,
+      "oppType": "Full-Time",
+      "initialComp": "$2411",
+      "negotiated": "Yes",
+      "finalComp": "$8979",
+      "accepted": "Yes"
+    },
+    {
+      "id": 14,
+      "oppType": "Full-Time",
+      "initialComp": "$85173",
+      "negotiated": "Yes",
+      "finalComp": "$382",
+      "accepted": "Yes"
+    },
+    {
+      "id": 15,
+      "oppType": "Full-Time",
+      "initialComp": "$96635",
+      "negotiated": "Yes",
+      "finalComp": "$95196",
+      "accepted": "Yes"
+    },
+    {
+      "id": 16,
+      "oppType": "Full-Time",
+      "initialComp": "$15549",
+      "negotiated": "Yes",
+      "finalComp": "$66466",
+      "accepted": "Yes"
+    },
+    {
+      "id": 17,
+      "oppType": "Full-Time",
+      "initialComp": "$9353",
+      "negotiated": "Yes",
+      "finalComp": "$6169",
+      "accepted": "Yes"
+    },
+    {
+      "id": 18,
+      "oppType": "Full-Time",
+      "initialComp": "$13743",
+      "negotiated": "Yes",
+      "finalComp": "$7410",
+      "accepted": "Yes"
+    },
+    {
+      "id": 19,
+      "oppType": "Full-Time",
+      "initialComp": "$70323",
+      "negotiated": "Yes",
+      "finalComp": "$75521",
+      "accepted": "Yes"
+    },
+    {
+      "id": 20,
+      "oppType": "Full-Time",
+      "initialComp": "$72556",
+      "negotiated": "Yes",
+      "finalComp": "$6063",
+      "accepted": "Yes"
+    },
+    {
+      "id": 21,
+      "oppType": "Full-Time",
+      "initialComp": "$18267",
+      "negotiated": "Yes",
+      "finalComp": "$70123",
+      "accepted": "Yes"
+    },
+    {
+      "id": 22,
+      "oppType": "Full-Time",
+      "initialComp": "$93551",
+      "negotiated": "Yes",
+      "finalComp": "$98875",
+      "accepted": "Yes"
+    },
+    {
+      "id": 23,
+      "oppType": "Full-Time",
+      "initialComp": "$31470",
+      "negotiated": "Yes",
+      "finalComp": "$52926",
+      "accepted": "Yes"
+    },
+    {
+      "id": 24,
+      "oppType": "Full-Time",
+      "initialComp": "$42966",
+      "negotiated": "Yes",
+      "finalComp": "$34419",
+      "accepted": "Yes"
+    },
+    {
+      "id": 25,
+      "oppType": "Full-Time",
+      "initialComp": "$89381",
+      "negotiated": "Yes",
+      "finalComp": "$53486",
+      "accepted": "Yes"
+    },
+    {
+      "id": 26,
+      "oppType": "Full-Time",
+      "initialComp": "$99983",
+      "negotiated": "Yes",
+      "finalComp": "$73298",
+      "accepted": "Yes"
+    },
+    {
+      "id": 27,
+      "oppType": "Full-Time",
+      "initialComp": "$42297",
+      "negotiated": "Yes",
+      "finalComp": "$22786",
+      "accepted": "Yes"
+    },
+    {
+      "id": 28,
+      "oppType": "Full-Time",
+      "initialComp": "$71758",
+      "negotiated": "Yes",
+      "finalComp": "$97241",
+      "accepted": "Yes"
+    },
+    {
+      "id": 29,
+      "oppType": "Full-Time",
+      "initialComp": "$18395",
+      "negotiated": "Yes",
+      "finalComp": "$23192",
+      "accepted": "Yes"
+    },
+    {
+      "id": 30,
+      "oppType": "Full-Time",
+      "initialComp": "$39157",
+      "negotiated": "Yes",
+      "finalComp": "$62015",
+      "accepted": "Yes"
+    },
+    {
+      "id": 31,
+      "oppType": "Full-Time",
+      "initialComp": "$65229",
+      "negotiated": "Yes",
+      "finalComp": "$52056",
+      "accepted": "Yes"
+    },
+    {
+      "id": 32,
+      "oppType": "Full-Time",
+      "initialComp": "$59191",
+      "negotiated": "Yes",
+      "finalComp": "$24972",
+      "accepted": "Yes"
+    },
+    {
+      "id": 33,
+      "oppType": "Full-Time",
+      "initialComp": "$9925",
+      "negotiated": "Yes",
+      "finalComp": "$59436",
+      "accepted": "Yes"
+    },
+    {
+      "id": 34,
+      "oppType": "Full-Time",
+      "initialComp": "$65180",
+      "negotiated": "Yes",
+      "finalComp": "$76673",
+      "accepted": "Yes"
+    },
+    {
+      "id": 35,
+      "oppType": "Full-Time",
+      "initialComp": "$2935",
+      "negotiated": "Yes",
+      "finalComp": "$68939",
+      "accepted": "Yes"
+    },
+    {
+      "id": 36,
+      "oppType": "Full-Time",
+      "initialComp": "$15538",
+      "negotiated": "Yes",
+      "finalComp": "$90982",
+      "accepted": "Yes"
+    },
+    {
+      "id": 37,
+      "oppType": "Full-Time",
+      "initialComp": "$52290",
+      "negotiated": "Yes",
+      "finalComp": "$16281",
+      "accepted": "Yes"
+    },
+    {
+      "id": 38,
+      "oppType": "Full-Time",
+      "initialComp": "$40258",
+      "negotiated": "Yes",
+      "finalComp": "$52140",
+      "accepted": "Yes"
+    },
+    {
+      "id": 39,
+      "oppType": "Full-Time",
+      "initialComp": "$33286",
+      "negotiated": "Yes",
+      "finalComp": "$69551",
+      "accepted": "Yes"
+    },
+    {
+      "id": 40,
+      "oppType": "Full-Time",
+      "initialComp": "$45550",
+      "negotiated": "Yes",
+      "finalComp": "$77896",
+      "accepted": "Yes"
+    },
+    {
+      "id": 41,
+      "oppType": "Full-Time",
+      "initialComp": "$83501",
+      "negotiated": "Yes",
+      "finalComp": "$9683",
+      "accepted": "Yes"
+    },
+    {
+      "id": 42,
+      "oppType": "Full-Time",
+      "initialComp": "$47303",
+      "negotiated": "Yes",
+      "finalComp": "$21642",
+      "accepted": "Yes"
+    },
+    {
+      "id": 43,
+      "oppType": "Full-Time",
+      "initialComp": "$85639",
+      "negotiated": "Yes",
+      "finalComp": "$83058",
+      "accepted": "Yes"
+    },
+    {
+      "id": 44,
+      "oppType": "Full-Time",
+      "initialComp": "$60204",
+      "negotiated": "Yes",
+      "finalComp": "$67325",
+      "accepted": "Yes"
+    },
+    {
+      "id": 45,
+      "oppType": "Full-Time",
+      "initialComp": "$62878",
+      "negotiated": "Yes",
+      "finalComp": "$31157",
+      "accepted": "Yes"
+    },
+    {
+      "id": 46,
+      "oppType": "Full-Time",
+      "initialComp": "$49522",
+      "negotiated": "Yes",
+      "finalComp": "$56655",
+      "accepted": "Yes"
+    },
+    {
+      "id": 47,
+      "oppType": "Full-Time",
+      "initialComp": "$760",
+      "negotiated": "Yes",
+      "finalComp": "$72884",
+      "accepted": "Yes"
+    },
+    {
+      "id": 48,
+      "oppType": "Full-Time",
+      "initialComp": "$60909",
+      "negotiated": "Yes",
+      "finalComp": "$6439",
+      "accepted": "Yes"
+    },
+    {
+      "id": 49,
+      "oppType": "Full-Time",
+      "initialComp": "$69412",
+      "negotiated": "Yes",
+      "finalComp": "$40530",
+      "accepted": "Yes"
+    },
+    {
+      "id": 50,
+      "oppType": "Full-Time",
+      "initialComp": "$45585",
+      "negotiated": "Yes",
+      "finalComp": "$51829",
+      "accepted": "Yes"
+    },
+    {
+      "id": 51,
+      "oppType": "Full-Time",
+      "initialComp": "$76319",
+      "negotiated": "Yes",
+      "finalComp": "$47506",
+      "accepted": "Yes"
+    },
+    {
+      "id": 52,
+      "oppType": "Full-Time",
+      "initialComp": "$10564",
+      "negotiated": "Yes",
+      "finalComp": "$66833",
+      "accepted": "Yes"
+    },
+    {
+      "id": 53,
+      "oppType": "Full-Time",
+      "initialComp": "$54562",
+      "negotiated": "Yes",
+      "finalComp": "$49644",
+      "accepted": "Yes"
+    },
+    {
+      "id": 54,
+      "oppType": "Full-Time",
+      "initialComp": "$37724",
+      "negotiated": "Yes",
+      "finalComp": "$44953",
+      "accepted": "Yes"
+    },
+    {
+      "id": 55,
+      "oppType": "Full-Time",
+      "initialComp": "$4199",
+      "negotiated": "Yes",
+      "finalComp": "$82297",
+      "accepted": "Yes"
+    },
+    {
+      "id": 56,
+      "oppType": "Full-Time",
+      "initialComp": "$83076",
+      "negotiated": "Yes",
+      "finalComp": "$36194",
+      "accepted": "Yes"
+    },
+    {
+      "id": 57,
+      "oppType": "Full-Time",
+      "initialComp": "$57967",
+      "negotiated": "Yes",
+      "finalComp": "$30644",
+      "accepted": "Yes"
+    },
+    {
+      "id": 58,
+      "oppType": "Full-Time",
+      "initialComp": "$16572",
+      "negotiated": "Yes",
+      "finalComp": "$9151",
+      "accepted": "Yes"
+    },
+    {
+      "id": 59,
+      "oppType": "Full-Time",
+      "initialComp": "$36626",
+      "negotiated": "Yes",
+      "finalComp": "$35245",
+      "accepted": "Yes"
+    },
+    {
+      "id": 60,
+      "oppType": "Full-Time",
+      "initialComp": "$47380",
+      "negotiated": "Yes",
+      "finalComp": "$7788",
+      "accepted": "Yes"
+    },
+    {
+      "id": 61,
+      "oppType": "Full-Time",
+      "initialComp": "$83214",
+      "negotiated": "Yes",
+      "finalComp": "$41160",
+      "accepted": "Yes"
+    },
+    {
+      "id": 62,
+      "oppType": "Full-Time",
+      "initialComp": "$55598",
+      "negotiated": "Yes",
+      "finalComp": "$32292",
+      "accepted": "Yes"
+    },
+    {
+      "id": 63,
+      "oppType": "Full-Time",
+      "initialComp": "$6350",
+      "negotiated": "Yes",
+      "finalComp": "$84037",
+      "accepted": "Yes"
+    },
+    {
+      "id": 64,
+      "oppType": "Full-Time",
+      "initialComp": "$66256",
+      "negotiated": "Yes",
+      "finalComp": "$64275",
+      "accepted": "Yes"
+    },
+    {
+      "id": 65,
+      "oppType": "Full-Time",
+      "initialComp": "$87379",
+      "negotiated": "Yes",
+      "finalComp": "$15563",
+      "accepted": "Yes"
+    },
+    {
+      "id": 66,
+      "oppType": "Full-Time",
+      "initialComp": "$4925",
+      "negotiated": "Yes",
+      "finalComp": "$6309",
+      "accepted": "Yes"
+    },
+    {
+      "id": 67,
+      "oppType": "Full-Time",
+      "initialComp": "$36994",
+      "negotiated": "Yes",
+      "finalComp": "$86877",
+      "accepted": "Yes"
+    },
+    {
+      "id": 68,
+      "oppType": "Full-Time",
+      "initialComp": "$57696",
+      "negotiated": "Yes",
+      "finalComp": "$41784",
+      "accepted": "Yes"
+    },
+    {
+      "id": 69,
+      "oppType": "Full-Time",
+      "initialComp": "$39286",
+      "negotiated": "Yes",
+      "finalComp": "$55669",
+      "accepted": "Yes"
+    },
+    {
+      "id": 70,
+      "oppType": "Full-Time",
+      "initialComp": "$95073",
+      "negotiated": "Yes",
+      "finalComp": "$95398",
+      "accepted": "Yes"
+    },
+    {
+      "id": 71,
+      "oppType": "Full-Time",
+      "initialComp": "$92753",
+      "negotiated": "Yes",
+      "finalComp": "$10211",
+      "accepted": "Yes"
+    },
+    {
+      "id": 72,
+      "oppType": "Full-Time",
+      "initialComp": "$22832",
+      "negotiated": "Yes",
+      "finalComp": "$15525",
+      "accepted": "Yes"
+    },
+    {
+      "id": 73,
+      "oppType": "Full-Time",
+      "initialComp": "$93912",
+      "negotiated": "Yes",
+      "finalComp": "$21863",
+      "accepted": "Yes"
+    },
+    {
+      "id": 74,
+      "oppType": "Full-Time",
+      "initialComp": "$54778",
+      "negotiated": "Yes",
+      "finalComp": "$65513",
+      "accepted": "Yes"
+    },
+    {
+      "id": 75,
+      "oppType": "Full-Time",
+      "initialComp": "$31259",
+      "negotiated": "Yes",
+      "finalComp": "$46804",
+      "accepted": "Yes"
+    },
+    {
+      "id": 76,
+      "oppType": "Full-Time",
+      "initialComp": "$80892",
+      "negotiated": "Yes",
+      "finalComp": "$3566",
+      "accepted": "Yes"
+    },
+    {
+      "id": 77,
+      "oppType": "Full-Time",
+      "initialComp": "$58225",
+      "negotiated": "Yes",
+      "finalComp": "$77465",
+      "accepted": "Yes"
+    },
+    {
+      "id": 78,
+      "oppType": "Full-Time",
+      "initialComp": "$43363",
+      "negotiated": "Yes",
+      "finalComp": "$76386",
+      "accepted": "Yes"
+    },
+    {
+      "id": 79,
+      "oppType": "Full-Time",
+      "initialComp": "$45319",
+      "negotiated": "Yes",
+      "finalComp": "$73360",
+      "accepted": "Yes"
+    },
+    {
+      "id": 80,
+      "oppType": "Full-Time",
+      "initialComp": "$60380",
+      "negotiated": "Yes",
+      "finalComp": "$16874",
+      "accepted": "Yes"
+    },
+    {
+      "id": 81,
+      "oppType": "Full-Time",
+      "initialComp": "$40721",
+      "negotiated": "Yes",
+      "finalComp": "$93496",
+      "accepted": "Yes"
+    },
+    {
+      "id": 82,
+      "oppType": "Full-Time",
+      "initialComp": "$13027",
+      "negotiated": "Yes",
+      "finalComp": "$25862",
+      "accepted": "Yes"
+    },
+    {
+      "id": 83,
+      "oppType": "Full-Time",
+      "initialComp": "$70503",
+      "negotiated": "Yes",
+      "finalComp": "$69818",
+      "accepted": "Yes"
+    },
+    {
+      "id": 84,
+      "oppType": "Full-Time",
+      "initialComp": "$81076",
+      "negotiated": "Yes",
+      "finalComp": "$64950",
+      "accepted": "Yes"
+    },
+    {
+      "id": 85,
+      "oppType": "Full-Time",
+      "initialComp": "$16768",
+      "negotiated": "Yes",
+      "finalComp": "$39876",
+      "accepted": "Yes"
+    },
+    {
+      "id": 86,
+      "oppType": "Full-Time",
+      "initialComp": "$97765",
+      "negotiated": "Yes",
+      "finalComp": "$21146",
+      "accepted": "Yes"
+    },
+    {
+      "id": 87,
+      "oppType": "Full-Time",
+      "initialComp": "$74274",
+      "negotiated": "Yes",
+      "finalComp": "$95669",
+      "accepted": "Yes"
+    },
+    {
+      "id": 88,
+      "oppType": "Full-Time",
+      "initialComp": "$37217",
+      "negotiated": "Yes",
+      "finalComp": "$65553",
+      "accepted": "Yes"
+    },
+    {
+      "id": 89,
+      "oppType": "Full-Time",
+      "initialComp": "$80269",
+      "negotiated": "Yes",
+      "finalComp": "$23292",
+      "accepted": "Yes"
+    },
+    {
+      "id": 90,
+      "oppType": "Full-Time",
+      "initialComp": "$71978",
+      "negotiated": "Yes",
+      "finalComp": "$90821",
+      "accepted": "Yes"
+    },
+    {
+      "id": 91,
+      "oppType": "Full-Time",
+      "initialComp": "$34192",
+      "negotiated": "Yes",
+      "finalComp": "$42355",
+      "accepted": "Yes"
+    },
+    {
+      "id": 92,
+      "oppType": "Full-Time",
+      "initialComp": "$53182",
+      "negotiated": "Yes",
+      "finalComp": "$6795",
+      "accepted": "Yes"
+    },
+    {
+      "id": 93,
+      "oppType": "Full-Time",
+      "initialComp": "$8863",
+      "negotiated": "Yes",
+      "finalComp": "$12497",
+      "accepted": "Yes"
+    },
+    {
+      "id": 94,
+      "oppType": "Full-Time",
+      "initialComp": "$17201",
+      "negotiated": "Yes",
+      "finalComp": "$45495",
+      "accepted": "Yes"
+    },
+    {
+      "id": 95,
+      "oppType": "Full-Time",
+      "initialComp": "$89434",
+      "negotiated": "Yes",
+      "finalComp": "$64536",
+      "accepted": "Yes"
+    },
+    {
+      "id": 96,
+      "oppType": "Full-Time",
+      "initialComp": "$37831",
+      "negotiated": "Yes",
+      "finalComp": "$80970",
+      "accepted": "Yes"
+    },
+    {
+      "id": 97,
+      "oppType": "Full-Time",
+      "initialComp": "$96555",
+      "negotiated": "Yes",
+      "finalComp": "$50794",
+      "accepted": "Yes"
+    },
+    {
+      "id": 98,
+      "oppType": "Full-Time",
+      "initialComp": "$55322",
+      "negotiated": "Yes",
+      "finalComp": "$52866",
+      "accepted": "Yes"
+    },
+    {
+      "id": 99,
+      "oppType": "Full-Time",
+      "initialComp": "$61152",
+      "negotiated": "Yes",
+      "finalComp": "$84483",
+      "accepted": "Yes"
+    }
+  ],
+  "users": [
+    {
+      "userId": 0,
+      "firstName": "Darby",
+      "lastName": "Terry",
+      "userName": "Alejandrin_Crona",
+      "companiesApplied": 12817
+    },
+    {
+      "userId": 1,
+      "firstName": "Elmira",
+      "lastName": "MacGyver",
+      "userName": "Zaria.Reinger54",
+      "companiesApplied": 34871
+    },
+    {
+      "userId": 2,
+      "firstName": "Raoul",
+      "lastName": "Berge",
+      "userName": "Dariana78",
+      "companiesApplied": 29142
+    },
+    {
+      "userId": 3,
+      "firstName": "Ciara",
+      "lastName": "Grant",
+      "userName": "Helga2",
+      "companiesApplied": 21654
+    },
+    {
+      "userId": 4,
+      "firstName": "Bernadine",
+      "lastName": "Botsford",
+      "userName": "Damaris.Kulas73",
+      "companiesApplied": 89217
+    },
+    {
+      "userId": 5,
+      "firstName": "Jefferey",
+      "lastName": "Lehner",
+      "userName": "Junius82",
+      "companiesApplied": 97488
+    },
+    {
+      "userId": 6,
+      "firstName": "Virgil",
+      "lastName": "Bartell",
+      "userName": "Ana.Welch35",
+      "companiesApplied": 35673
+    },
+    {
+      "userId": 7,
+      "firstName": "Assunta",
+      "lastName": "Lang",
+      "userName": "Hester.Lind17",
+      "companiesApplied": 10739
+    },
+    {
+      "userId": 8,
+      "firstName": "Petra",
+      "lastName": "Nader",
+      "userName": "Roman75",
+      "companiesApplied": 56576
+    },
+    {
+      "userId": 9,
+      "firstName": "Jaren",
+      "lastName": "Hackett",
+      "userName": "Boris.Olson86",
+      "companiesApplied": 46324
+    },
+    {
+      "userId": 10,
+      "firstName": "Jaden",
+      "lastName": "Nikolaus",
+      "userName": "Orrin.Rutherford",
+      "companiesApplied": 50325
+    },
+    {
+      "userId": 11,
+      "firstName": "Rosendo",
+      "lastName": "Jones",
+      "userName": "Stefanie.Jaskolski",
+      "companiesApplied": 63421
+    },
+    {
+      "userId": 12,
+      "firstName": "Royal",
+      "lastName": "Huel",
+      "userName": "Marcellus10",
+      "companiesApplied": 31259
+    },
+    {
+      "userId": 13,
+      "firstName": "Palma",
+      "lastName": "Abbott",
+      "userName": "Justus.Welch84",
+      "companiesApplied": 14793
+    },
+    {
+      "userId": 14,
+      "firstName": "Reymundo",
+      "lastName": "Ziemann",
+      "userName": "Aurelia_Deckow",
+      "companiesApplied": 26907
+    },
+    {
+      "userId": 15,
+      "firstName": "Nya",
+      "lastName": "Davis",
+      "userName": "Isaiah_Kuphal69",
+      "companiesApplied": 17994
+    },
+    {
+      "userId": 16,
+      "firstName": "Leola",
+      "lastName": "Windler",
+      "userName": "Orin_Mraz",
+      "companiesApplied": 56088
+    },
+    {
+      "userId": 17,
+      "firstName": "Modesta",
+      "lastName": "Zieme",
+      "userName": "Cortez_Frami23",
+      "companiesApplied": 42618
+    },
+    {
+      "userId": 18,
+      "firstName": "Amelia",
+      "lastName": "Hoppe",
+      "userName": "Sandra_Fritsch94",
+      "companiesApplied": 86617
+    },
+    {
+      "userId": 19,
+      "firstName": "Ciara",
+      "lastName": "Lind",
+      "userName": "Simeon.Anderson12",
+      "companiesApplied": 14970
+    },
+    {
+      "userId": 20,
+      "firstName": "Emmet",
+      "lastName": "Carter",
+      "userName": "Lula.Cole72",
+      "companiesApplied": 28564
+    },
+    {
+      "userId": 21,
+      "firstName": "Cleveland",
+      "lastName": "Kiehn",
+      "userName": "Hans.Klocko",
+      "companiesApplied": 84189
+    },
+    {
+      "userId": 22,
+      "firstName": "Dolores",
+      "lastName": "Heathcote",
+      "userName": "Loyce49",
+      "companiesApplied": 26886
+    },
+    {
+      "userId": 23,
+      "firstName": "Vanessa",
+      "lastName": "Metz",
+      "userName": "Monserrate_Haag64",
+      "companiesApplied": 38666
+    },
+    {
+      "userId": 24,
+      "firstName": "Daron",
+      "lastName": "Little",
+      "userName": "Cornell4",
+      "companiesApplied": 18443
+    },
+    {
+      "userId": 25,
+      "firstName": "Eladio",
+      "lastName": "Miller",
+      "userName": "Jacinthe.Rosenbaum24",
+      "companiesApplied": 24451
+    },
+    {
+      "userId": 26,
+      "firstName": "Arielle",
+      "lastName": "Mayert",
+      "userName": "Selmer.Ruecker",
+      "companiesApplied": 4451
+    },
+    {
+      "userId": 27,
+      "firstName": "Malinda",
+      "lastName": "Reichel",
+      "userName": "Ismael.Hagenes64",
+      "companiesApplied": 86269
+    },
+    {
+      "userId": 28,
+      "firstName": "Jewel",
+      "lastName": "Gorczany",
+      "userName": "Janie.Gleason",
+      "companiesApplied": 30567
+    },
+    {
+      "userId": 29,
+      "firstName": "Estefania",
+      "lastName": "Funk",
+      "userName": "Sincere.Howe",
+      "companiesApplied": 67690
+    },
+    {
+      "userId": 30,
+      "firstName": "Veronica",
+      "lastName": "Gutkowski",
+      "userName": "Tyree_Feeney",
+      "companiesApplied": 65336
+    },
+    {
+      "userId": 31,
+      "firstName": "Demetrius",
+      "lastName": "Nicolas",
+      "userName": "Nella.Hyatt",
+      "companiesApplied": 55569
+    },
+    {
+      "userId": 32,
+      "firstName": "Kole",
+      "lastName": "Cole",
+      "userName": "Larue_Ortiz",
+      "companiesApplied": 93788
+    },
+    {
+      "userId": 33,
+      "firstName": "Golda",
+      "lastName": "Breitenberg",
+      "userName": "Molly36",
+      "companiesApplied": 17901
+    },
+    {
+      "userId": 34,
+      "firstName": "Devonte",
+      "lastName": "Mohr",
+      "userName": "Roger.Mills",
+      "companiesApplied": 83217
+    },
+    {
+      "userId": 35,
+      "firstName": "Layne",
+      "lastName": "McKenzie",
+      "userName": "Elias_Pollich63",
+      "companiesApplied": 43735
+    },
+    {
+      "userId": 36,
+      "firstName": "Lupe",
+      "lastName": "Gislason",
+      "userName": "Vanessa_Towne78",
+      "companiesApplied": 89413
+    },
+    {
+      "userId": 37,
+      "firstName": "Thomas",
+      "lastName": "White",
+      "userName": "Helen98",
+      "companiesApplied": 24818
+    },
+    {
+      "userId": 38,
+      "firstName": "Gerard",
+      "lastName": "Bashirian",
+      "userName": "Luisa60",
+      "companiesApplied": 73908
+    },
+    {
+      "userId": 39,
+      "firstName": "Samson",
+      "lastName": "Ullrich",
+      "userName": "Jackson.Crooks",
+      "companiesApplied": 84971
+    },
+    {
+      "userId": 40,
+      "firstName": "Efren",
+      "lastName": "Borer",
+      "userName": "Alexandra.Walker",
+      "companiesApplied": 46701
+    },
+    {
+      "userId": 41,
+      "firstName": "Silas",
+      "lastName": "Rolfson",
+      "userName": "Breanna_Mills",
+      "companiesApplied": 53652
+    },
+    {
+      "userId": 42,
+      "firstName": "Aryanna",
+      "lastName": "Luettgen",
+      "userName": "Marcos.Zboncak",
+      "companiesApplied": 79145
+    },
+    {
+      "userId": 43,
+      "firstName": "Daniela",
+      "lastName": "Yundt",
+      "userName": "Waldo_Green17",
+      "companiesApplied": 44147
+    },
+    {
+      "userId": 44,
+      "firstName": "Angela",
+      "lastName": "Hilll",
+      "userName": "Rollin.Wolff",
+      "companiesApplied": 93545
+    },
+    {
+      "userId": 45,
+      "firstName": "Tristin",
+      "lastName": "Hegmann",
+      "userName": "Emma93",
+      "companiesApplied": 74979
+    },
+    {
+      "userId": 46,
+      "firstName": "Charlene",
+      "lastName": "Schmeler",
+      "userName": "Kendra_DuBuque57",
+      "companiesApplied": 35769
+    },
+    {
+      "userId": 47,
+      "firstName": "Lafayette",
+      "lastName": "Conn",
+      "userName": "Jewell80",
+      "companiesApplied": 61629
+    },
+    {
+      "userId": 48,
+      "firstName": "Darius",
+      "lastName": "Little",
+      "userName": "Talon_Fahey59",
+      "companiesApplied": 63274
+    },
+    {
+      "userId": 49,
+      "firstName": "Eldon",
+      "lastName": "Reichert",
+      "userName": "Lester78",
+      "companiesApplied": 2708
+    },
+    {
+      "userId": 50,
+      "firstName": "Gayle",
+      "lastName": "Hodkiewicz",
+      "userName": "Kian93",
+      "companiesApplied": 60623
+    },
+    {
+      "userId": 51,
+      "firstName": "Jeffery",
+      "lastName": "Senger",
+      "userName": "Loy74",
+      "companiesApplied": 33679
+    },
+    {
+      "userId": 52,
+      "firstName": "Esteban",
+      "lastName": "Baumbach",
+      "userName": "Maggie74",
+      "companiesApplied": 40077
+    },
+    {
+      "userId": 53,
+      "firstName": "Bonnie",
+      "lastName": "Prosacco",
+      "userName": "Kailyn.Jerde",
+      "companiesApplied": 2077
+    },
+    {
+      "userId": 54,
+      "firstName": "Mariano",
+      "lastName": "Kreiger",
+      "userName": "Trace.Price",
+      "companiesApplied": 39161
+    },
+    {
+      "userId": 55,
+      "firstName": "Stephen",
+      "lastName": "Grady",
+      "userName": "Elisha82",
+      "companiesApplied": 15417
+    },
+    {
+      "userId": 56,
+      "firstName": "Baylee",
+      "lastName": "Ernser",
+      "userName": "Floyd_Pouros",
+      "companiesApplied": 49713
+    },
+    {
+      "userId": 57,
+      "firstName": "Dixie",
+      "lastName": "Raynor",
+      "userName": "Carissa_Walsh45",
+      "companiesApplied": 24208
+    },
+    {
+      "userId": 58,
+      "firstName": "Alfreda",
+      "lastName": "Mayer",
+      "userName": "Jamey4",
+      "companiesApplied": 17788
+    },
+    {
+      "userId": 59,
+      "firstName": "Stephan",
+      "lastName": "Larson",
+      "userName": "Cleveland_Satterfield",
+      "companiesApplied": 68869
+    },
+    {
+      "userId": 60,
+      "firstName": "Jessie",
+      "lastName": "Keeling",
+      "userName": "Alexa.Kihn22",
+      "companiesApplied": 97367
+    },
+    {
+      "userId": 61,
+      "firstName": "Adela",
+      "lastName": "Littel",
+      "userName": "Brendon.Klocko",
+      "companiesApplied": 69674
+    },
+    {
+      "userId": 62,
+      "firstName": "Sebastian",
+      "lastName": "Klein",
+      "userName": "Priscilla_Ruecker7",
+      "companiesApplied": 73774
+    },
+    {
+      "userId": 63,
+      "firstName": "Elton",
+      "lastName": "Steuber",
+      "userName": "Meaghan11",
+      "companiesApplied": 97723
+    },
+    {
+      "userId": 64,
+      "firstName": "Guiseppe",
+      "lastName": "Carroll",
+      "userName": "Kelsi45",
+      "companiesApplied": 70153
+    },
+    {
+      "userId": 65,
+      "firstName": "Maureen",
+      "lastName": "Moore",
+      "userName": "Kayli.Batz",
+      "companiesApplied": 33117
+    },
+    {
+      "userId": 66,
+      "firstName": "Jayne",
+      "lastName": "Hahn",
+      "userName": "Jan_Klein",
+      "companiesApplied": 39408
+    },
+    {
+      "userId": 67,
+      "firstName": "Dina",
+      "lastName": "Hodkiewicz",
+      "userName": "Verona_Nikolaus",
+      "companiesApplied": 67423
+    },
+    {
+      "userId": 68,
+      "firstName": "Coty",
+      "lastName": "Carroll",
+      "userName": "Tamia18",
+      "companiesApplied": 31534
+    },
+    {
+      "userId": 69,
+      "firstName": "Ottis",
+      "lastName": "Price",
+      "userName": "Kayli_Larkin98",
+      "companiesApplied": 3174
+    },
+    {
+      "userId": 70,
+      "firstName": "Daron",
+      "lastName": "Bashirian",
+      "userName": "Lloyd.Mante",
+      "companiesApplied": 61055
+    },
+    {
+      "userId": 71,
+      "firstName": "Amelia",
+      "lastName": "Beier",
+      "userName": "Mireya_Hilll9",
+      "companiesApplied": 38756
+    },
+    {
+      "userId": 72,
+      "firstName": "Roscoe",
+      "lastName": "O'Hara",
+      "userName": "Wallace_Hermann",
+      "companiesApplied": 44827
+    },
+    {
+      "userId": 73,
+      "firstName": "Newton",
+      "lastName": "Wisozk",
+      "userName": "Murphy_Glover40",
+      "companiesApplied": 64309
+    },
+    {
+      "userId": 74,
+      "firstName": "Zoe",
+      "lastName": "Bechtelar",
+      "userName": "Keyon.Sauer81",
+      "companiesApplied": 12628
+    },
+    {
+      "userId": 75,
+      "firstName": "Nakia",
+      "lastName": "Bogisich",
+      "userName": "Layne.Schimmel",
+      "companiesApplied": 98208
+    },
+    {
+      "userId": 76,
+      "firstName": "Winfield",
+      "lastName": "McKenzie",
+      "userName": "Arlo.Mohr80",
+      "companiesApplied": 89385
+    },
+    {
+      "userId": 77,
+      "firstName": "Alexandria",
+      "lastName": "Lindgren",
+      "userName": "Martina_Kessler85",
+      "companiesApplied": 42295
+    },
+    {
+      "userId": 78,
+      "firstName": "Nelle",
+      "lastName": "Schiller",
+      "userName": "Irwin42",
+      "companiesApplied": 29978
+    },
+    {
+      "userId": 79,
+      "firstName": "Camilla",
+      "lastName": "Gleichner",
+      "userName": "Toby_Casper45",
+      "companiesApplied": 40003
+    },
+    {
+      "userId": 80,
+      "firstName": "Kathleen",
+      "lastName": "Schulist",
+      "userName": "Adriana.Hintz94",
+      "companiesApplied": 20097
+    },
+    {
+      "userId": 81,
+      "firstName": "Rahul",
+      "lastName": "Wunsch",
+      "userName": "Roy72",
+      "companiesApplied": 85363
+    },
+    {
+      "userId": 82,
+      "firstName": "Darien",
+      "lastName": "Gorczany",
+      "userName": "Elena.Halvorson",
+      "companiesApplied": 38456
+    },
+    {
+      "userId": 83,
+      "firstName": "Brandi",
+      "lastName": "Rohan",
+      "userName": "Roslyn_Halvorson95",
+      "companiesApplied": 56491
+    },
+    {
+      "userId": 84,
+      "firstName": "Chandler",
+      "lastName": "Feil",
+      "userName": "Mozelle1",
+      "companiesApplied": 11123
+    },
+    {
+      "userId": 85,
+      "firstName": "Benedict",
+      "lastName": "Kerluke",
+      "userName": "Minerva19",
+      "companiesApplied": 96602
+    },
+    {
+      "userId": 86,
+      "firstName": "Branson",
+      "lastName": "Bailey",
+      "userName": "Johnny_Conroy",
+      "companiesApplied": 52692
+    },
+    {
+      "userId": 87,
+      "firstName": "Jocelyn",
+      "lastName": "Prohaska",
+      "userName": "Elenor_McCullough24",
+      "companiesApplied": 91208
+    },
+    {
+      "userId": 88,
+      "firstName": "Bernita",
+      "lastName": "Shields",
+      "userName": "Davion.Senger53",
+      "companiesApplied": 88072
+    },
+    {
+      "userId": 89,
+      "firstName": "Lavern",
+      "lastName": "Funk",
+      "userName": "Jaeden_Johnson",
+      "companiesApplied": 37381
+    },
+    {
+      "userId": 90,
+      "firstName": "Barbara",
+      "lastName": "Bartell",
+      "userName": "Kavon69",
+      "companiesApplied": 419
+    },
+    {
+      "userId": 91,
+      "firstName": "Edythe",
+      "lastName": "Hagenes",
+      "userName": "Rosa.Bernier",
+      "companiesApplied": 42665
+    },
+    {
+      "userId": 92,
+      "firstName": "Fiona",
+      "lastName": "Kautzer",
+      "userName": "Eula_Keeling",
+      "companiesApplied": 10463
+    },
+    {
+      "userId": 93,
+      "firstName": "Darron",
+      "lastName": "Green",
+      "userName": "Lea.Schoen64",
+      "companiesApplied": 41838
+    },
+    {
+      "userId": 94,
+      "firstName": "Alice",
+      "lastName": "Carter",
+      "userName": "Ronaldo10",
+      "companiesApplied": 15620
+    },
+    {
+      "userId": 95,
+      "firstName": "Beatrice",
+      "lastName": "Block",
+      "userName": "Everett29",
+      "companiesApplied": 49530
+    },
+    {
+      "userId": 96,
+      "firstName": "Alda",
+      "lastName": "Quitzon",
+      "userName": "Gertrude.Gleason51",
+      "companiesApplied": 59834
+    },
+    {
+      "userId": 97,
+      "firstName": "Dandre",
+      "lastName": "Heaney",
+      "userName": "Arturo.Veum",
+      "companiesApplied": 32405
+    },
+    {
+      "userId": 98,
+      "firstName": "Jameson",
+      "lastName": "McCullough",
+      "userName": "Arno2",
+      "companiesApplied": 50894
+    },
+    {
+      "userId": 99,
+      "firstName": "Sarah",
+      "lastName": "Block",
+      "userName": "Samantha_Boyer74",
+      "companiesApplied": 51785
+    }
+  ]
+}

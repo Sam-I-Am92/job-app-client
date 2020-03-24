@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest --verbose --coverage --colors --watchAll",
     "react-dev": "webpack --watch",
-    "server": "json-server db.json --static ./client/public"
+    "server": "json-server db.json --static ./client/public",
+    "generateData": "node ./generateData.js"
   },
   "author": "",
   "license": "ISC",
